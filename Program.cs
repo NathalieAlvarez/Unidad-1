@@ -10,6 +10,9 @@ namespace ProyectoVSC.Sintaxis3
             Console.WriteLine("...............");
             Console.WriteLine("este es el segundo cambio");
             Console.WriteLine("cambio guardado en el repositorio remoto.");
+            Console.WriteLine("guardado 4 xd");
+
+
         }
     }
 }
