@@ -7,6 +7,8 @@ namespace ProyectoVSC.Sintaxis3
         static void Main(string[] args)
         {
             Console.WriteLine("estoy aprendiendo a hacer repositorios, no te burles, por favor");
+            Console.WriteLine("...............");
+            Console.WriteLine("este es el segundo cambio");
         }
     }
 }
