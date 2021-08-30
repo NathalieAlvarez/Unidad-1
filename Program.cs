@@ -9,6 +9,7 @@ namespace ProyectoVSC.Sintaxis3
             Console.WriteLine("estoy aprendiendo a hacer repositorios, no te burles, por favor");
             Console.WriteLine("...............");
             Console.WriteLine("este es el segundo cambio");
+            Console.WriteLine("cambio guardado en el repositorio remoto.");
         }
     }
 }
